@@ -1,6 +1,6 @@
 {
-    "name": "odan/slim4-skeleton",
-    "description": "A Slim 4 skeleton",
+    "name": "nalyk/rad-rabbit",
+    "description": "A Slim 4 RAD Skeleton",
     "license": "MIT",
     "type": "project",
     "version": "0.6.0",
@@ -9,7 +9,7 @@
         "skeleton",
         "slim",
         "slim4",
-        "apache"
+        "nginx"
     ],
     "require": {
         "php": "^7.1",
