@@ -1,15 +1,13 @@
 <h1 align="center">
-    <pre>
+<pre>
   (\/)
  ( ..)
 c(")(")
 </pre>
 </h1>
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/781074/67567104-9fe7d000-f729-11e9-8a2d-0c7286475aac.png">
-</h1>
 
-<h3 align="center">Slim 4 Skeleton</h3>
+<h3 align="center">RAD RABBIT</h3>
+<h6 align="center">Slim 4 Skeleton</h6>
 
 <div align="center">
 
